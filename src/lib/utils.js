@@ -5,4 +5,4 @@ export function cn(...inputs) {
   return twMerge(clsx(inputs))
 }
 
-export const url = "http://localhost:5000"
+export const url = "https://office-project-backend.onrender.com/"
